@@ -2,7 +2,7 @@
 
 ----------------------------------------------------------------------------------
 
-url : https://discord.com/api/v8/guilds/Server ID/bans/ 
+url : https://discord.com/api/v8/guilds/server-id/bans/ 
 
 method : Get
 
@@ -10,7 +10,7 @@ info : returns all bans in json format including username, id, tag, and flags
 
 ----------------------------------------------------------------------------------
 
-url : https://discord.com/api/v8/guilds/server-id/bans/User ID
+url : https://discord.com/api/v8/guilds/server-id/bans/user-id
 
 method : Delete
 
